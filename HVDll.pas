@@ -1,5 +1,6 @@
 unit HVDll;
 //
+// https://github.com/pult/dll_load_delay
 // http://hallvards.blogspot.com/2008/03/tdm8-delayloading-of-dlls.html
 //
 // Support for DelayLoading of DLLs like VC++6.0 or latest Delphi (delayed)
