@@ -7,5 +7,4 @@
  
 - **Sample:**
 
-       ![1] (https://github.com/pult/dll_load_delay/blob/master/img/sample.png?raw=true "Sample")
-
+![Sample](img/sample.png?raw=true "Sample code")
