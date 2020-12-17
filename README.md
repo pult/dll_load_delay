@@ -1,6 +1,7 @@
 # Pascal: DLL load delayed
 **Support for DelayLoading of DLLs like VC++6.0 or latest Delphi (delayed)**
 
+![](https://tokei.rs/b1/github/pult/dll_load_delay?category=code) ![](https://tokei.rs/b1/github/pult/dll_load_delay?category=files)
 
 - **Base author:**
       - [Hallvard Vassbotn] (http://hallvards.blogspot.com/2008/03/tdm8-delayloading-of-dlls.html)
